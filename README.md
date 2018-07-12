@@ -82,11 +82,16 @@ Unix-like OS:
 
 ### Visit OFBiz through your browser:
 
-[Order Back Office](https://localhost:8443/ordermgr)
+[Order Back Office 订购后台](https://localhost:8443/ordermgr)
 
-[Accounting Back Office](https://localhost:8443/accounting)
+[Accounting Back Office 会计后台](https://localhost:8443/accounting)
 
-[Administrator interface](https://localhost:8443/webtools)
+[Administrator interfacev 管理员界面](https://localhost:8443/webtools)
+
+[Shopping interfacev 商城界面 ](https://localhost:8443/ecommerce)
+
+
+
 
 You can log in with the user __admin__ and password __ofbiz__.
 
