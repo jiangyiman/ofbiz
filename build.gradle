@@ -133,7 +133,7 @@ dependencies {
     compile 'oro:oro:2.0.8'
     compile 'wsdl4j:wsdl4j:1.6.2'
     compile 'org.jsoup:jsoup:1.11.2'
-    compile 'mysql:mysql-connector-java:jar:5.1.46'
+    compile 'mysql:mysql-connector-java:5.1.46'
 
     // ofbiz unit-test compile libs
     testCompile 'org.mockito:mockito-core:1.+'
